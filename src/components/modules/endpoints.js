@@ -10,7 +10,6 @@ const ENDPOINTS = {
         uri: '/employees',
         method: 'GET'
     },
-
 }
 
 export default ENDPOINTS;

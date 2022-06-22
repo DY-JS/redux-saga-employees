@@ -1,5 +1,16 @@
 import ENDPOINTS from "./endpoints";
 
+// const ENDPOINTS = {
+//   [JOBS]: {
+//       uri: '/jobs',
+//       method: 'GET'
+//   },
+//   [EMPLOYEES]: {
+//       uri: '/employees',
+//       method: 'GET'
+//   },
+// }
+
 export const JOBS = "jobs";
 export const EMPLOYEES = "employees";
 
